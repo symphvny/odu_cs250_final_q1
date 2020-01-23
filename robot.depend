@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575677363 source:c:\users\symph\documents\symphony_craddock_cs250_final\prob1.cpp
+	<iostream>
+	<string>
+	<fstream>
+
